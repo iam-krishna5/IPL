@@ -67,6 +67,9 @@ Created a **6-page Power BI dashboard**:
 - **GitHub** → Project version control & documentation  
 
 ---
+## 📊 Final Output
 
-## 📂 Repository Structure  
-
+- ✔️ Cleaned datasets
+- ✔️ KPI CSVs (batting, bowling, fielding, teams, toss, venues)
+- ✔️ Power BI Dashboard (6 pages)
+- ✔️ Exported insights (PDF/PNG)
